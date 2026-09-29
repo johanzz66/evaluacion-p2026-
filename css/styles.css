@@ -77,3 +77,30 @@ padding: 20rem 0;
 .texto-header p, h1, h2, div{
   margin: 4rem 0;
 }
+
+.valores{
+  background-color: #003366;
+}
+
+.valores-contenido{
+  background-color: white;
+  border-radius: 1.6rem;
+  padding: 4rem;
+}
+
+.footer{
+  background-color: #003366;;
+}
+
+.contenido-superior{
+  color: white;
+}
+
+.footer-enlaces{
+  display: flex;
+}
+
+.footer-enlaces a{
+  text-decoration: none;
+  color: white;
+}
